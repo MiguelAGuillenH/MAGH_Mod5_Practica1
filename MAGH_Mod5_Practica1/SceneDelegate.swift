@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  MAGH_Mod5_Tarea1
 //
-//  Created by DISMOV on 02/03/24.
+//  Created by MAGH on 02/03/24.
 //
 
 import UIKit
